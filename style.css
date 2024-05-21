@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(./background.png);
+  background-size: cover;
+}
+
+button {
+  width: 20px;
+  height: 20px;
+  background-image: url(./eye\ \(1\).png);
+  background-size: cover;
+  position: absolute;
+  top: 4px;
+  right: 8px;
+  z-index: 2;
+}
+
+button.active {
+  background-image: url(./eye\ \(2\).png);
+}/*# sourceMappingURL=style.css.map */
