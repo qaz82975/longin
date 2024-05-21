@@ -8,7 +8,7 @@ body {
   background-size: cover;
 }
 
-button {
+button, .button {
   width: 20px;
   height: 20px;
   background-image: url(./eye\ \(1\).png);
